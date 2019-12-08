@@ -7,6 +7,7 @@ public class HelloFriend {
 		String str = hello.sayHello(name)+" I am "+this.getMyName();
 		System.out.println(str);
 		return str;
+		“BLABLABAL”
 	}
 	public String getMyName(){ 
 		return "John";
